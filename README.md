@@ -32,7 +32,6 @@ You can install the Immunization Table project by cloning the repository:
 ```bash
 git clone https://github.com/Macgyver02/Immunization-Table.git
 ```
-
 Then, navigate to the project directory and install the dependencies:
 
 ```bash
